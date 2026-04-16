@@ -65,4 +65,7 @@ void display()
             cout << " -> ";
         }
     }
-    
+    cout << endl;
+}
+
+void binarySearch()
